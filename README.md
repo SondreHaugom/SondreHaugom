@@ -12,5 +12,6 @@ Jeg begynte med programmering for omtrent to år siden, og har siden den gang jo
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
 
+Ta gjerne en titt gjennom alle mine offentlige repositorier for å få et innblikk i hvordan jeg arbeider, hvilke prosjekter jeg har jobbet med, og hvordan jeg har utviklet meg som utvikler så langt.
 
 
