@@ -1,16 +1,16 @@
 ## Hi there 👋
+Hei! Jeg heter Sondre Haugom. Jeg er i gang med min utdanning som utvikler, og tar fagbrev i faget. For tiden er jeg utviklerlærling hos Telemark fylkeskommune her i Telemark.
 
-<!--
-**SondreHaugom/SondreHaugom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg begynte med programmering for omtrent to år siden, og har siden den gang jobbet med mange ulike prosjekter. Dette har gitt meg en god, grunnleggende kompetanse innen faget mitt.
 
-Here are some ideas to get you started:
+## Programmeringsspråk jeg har erfaring med
+![HTML](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
+![CSS]()
+![Javascript]()
+![Ptyhon]()
+![Svelte]()
+![PHP]()
+![SQL]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
