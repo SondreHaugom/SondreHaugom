@@ -12,7 +12,6 @@ Jeg begynte med programmering for omtrent to år siden, og har siden den gang jo
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-131415?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI0IiBmaWxsPSIjMTMxNDE1Ii8+PHBhdGggZD0iTTEyIDZsNiA0LjYxN3Y0LjYxN0wxMiAxOHY0bC02LTMuMzg0di00LjYxOEwxMiA2eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)
 
 
 
