@@ -12,7 +12,7 @@ Jeg begynte med programmering for omtrent to år siden, og har siden den gang jo
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 
 
 ## 
